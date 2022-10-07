@@ -1084,3 +1084,6 @@
 
 # Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita. -> ~ OVA
 - 18677|7725|18677:13 -> 20545|8029|20551:1
+
+# Legend of the Galactic Heroes: Die Neue These -> Legend of the Galactic Heroes: Die Neue These - Sakubou
+- 31433|11331|20628:37-49 -> 51805|46114|148970:1-12
